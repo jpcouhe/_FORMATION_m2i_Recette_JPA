@@ -1,4 +1,4 @@
-package com.jpa.example;
+package com.jpa.example.utilities;
 
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
